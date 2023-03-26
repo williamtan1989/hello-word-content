@@ -1,0 +1,14 @@
+{
+    "available_languages": [
+        {
+            "id": "ko",
+            "name": "Korean",
+            "flag_icon_url": "asset/flag/flag_ko.svg"
+        },
+        {
+            "id": "jp",
+            "name": "Japanese",
+            "flag_icon_url": "asset/flag/flag_jp.svg"
+        }
+    ]
+}
