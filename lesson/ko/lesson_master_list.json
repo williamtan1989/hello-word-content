@@ -1,0 +1,40 @@
+{
+    "last_updated_timestamp": 1684144720,
+    "lesson_list": [
+        {
+            "id": "kolesson1",
+            "title": "한글 - 자음과 모음",
+            "subtitle": "Learn the basic consonants and vowels in the Korean language."
+        },
+        {
+            "id": "kolesson2",
+            "title": "한글 - 초성",
+            "subtitle": "Learn the initial consonants in the Korean language."
+        },
+        {
+            "id": "kolesson3",
+            "title": "한글 - 중성",
+            "subtitle": "Learn the medial vowels in the Korean language."
+        },
+        {
+            "id": "kolesson4",
+            "title": "한글 - 종성",
+            "subtitle": "Learn the final consonants in the Korean language."
+        },
+        {
+            "id": "kolesson5",
+            "title": "한글 - 이중모음",
+            "subtitle": "Learn the double vowels in the Korean language."
+        },
+        {
+            "id": "kolesson6",
+            "title": "한글 - 받침",
+            "subtitle": "Learn the syllable-final consonants in the Korean language."
+        },
+        {
+            "id": "kolesson7",
+            "title": "한글 - 쌍자음",
+            "subtitle": "Learn the double consonants in the Korean language."
+        }
+    ]
+}
