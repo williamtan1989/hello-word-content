@@ -13,7 +13,7 @@
         {
             "id": "cn",
             "name": "Chinese",
-            "flat_icon_url": "asset/flag/flag_cn.svg"
+            "flag_icon_url": "asset/flag/flag_cn.svg"
         }
     ]
 }
