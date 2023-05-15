@@ -3,53 +3,63 @@
     "lesson_list": [
         {
             "id": "jplesson1",
-            "title": "Hiragana - あ、い、う、え、お",
-            "subtitle": "Learn the basic vowel sounds in the Japanese language."
+            "title": "ひらがな - あ、い、う、え、お",
+            "subtitle": "Learn the basic vowel sounds in the Japanese language.",
+            "title_romanization": "Hiragana - a, i, u, e, o"
         },
         {
             "id": "jplesson2",
-            "title": "Hiragana - か、き、く、け、こ",
-            "subtitle": "Learn the consonant (K) in the Japanese language."
+            "title": "ひらがな - か、き、く、け、こ",
+            "subtitle": "Learn the consonant (K) in the Japanese language.",
+            "title_romanization": "Hiragana - ka, ki, ku, ke, ko"
         },
         {
             "id": "jplesson3",
-            "title": "Hiragana - さ、し、す、せ、そ",
-            "subtitle": "Learn the consonant (S) in the Japanese language."
+            "title": "ひらがな - さ、し、す、せ、そ",
+            "subtitle": "Learn the consonant (S) in the Japanese language.",
+            "title_romanization": "Hiragana - sa, shi, su, se, so"
         },
         {
             "id": "jplesson4",
-            "title": "Hiragana - た、ち、つ、て、と",
-            "subtitle": "Learn the consonant (T) in the Japanese language."
+            "title": "ひらがな - た、ち、つ、て、と",
+            "subtitle": "Learn the consonant (T) in the Japanese language.",
+            "title_romanization": "Hiragana - ta, chi, tsu, te, to"
         },
         {
             "id": "jplesson5",
-            "title": "Hiragana - な、に、ぬ、ね、の",
-            "subtitle": "Learn the consonant (N) in the Japanese language."
+            "title": "ひらがな - な、に、ぬ、ね、の",
+            "subtitle": "Learn the consonant (N) in the Japanese language.",
+            "title_romanization": "Hiragana - na, ni, nu, ne, no"
         },
         {
             "id": "jplesson6",
-            "title": "Hiragana - は、ひ、ふ、へ、ほ",
-            "subtitle": "Learn the consonant (H) in the Japanese language."
+            "title": "ひらがな - は、ひ、ふ、へ、ほ",
+            "subtitle": "Learn the consonant (H) in the Japanese language.",
+            "title_romanization": "Hiragana - ha, hi, fu, he, ho"
         },
         {
             "id": "jplesson7",
-            "title": "Hiragana - ま、み、む、め、も",
-            "subtitle": "Learn the consonant (M) in the Japanese language."
+            "title": "ひらがな - ま、み、む、め、も",
+            "subtitle": "Learn the consonant (M) in the Japanese language.",
+            "title_romanization": "Hiragana - ma, mi, mu, me, mo"
         },
         {
             "id": "jplesson8",
-            "title": "Hiragana - や、ゆ、よ",
-            "subtitle": "Learn the consonant (Y) in the Japanese language."
+            "title": "ひらがな - や、ゆ、よ",
+            "subtitle": "Learn the consonant (Y) in the Japanese language.",
+            "title_romanization": "Hiragana - ya, yu, yo"
         },
         {
             "id": "jplesson9",
-            "title": "Hiragana - ら、り、る、れ、ろ",
-            "subtitle": "Learn the consonant (R) in the Japanese language."
+            "title": "ひらがな - ら、り、る、れ、ろ",
+            "subtitle": "Learn the consonant (R) in the Japanese language.",
+            "title_romanization": "Hiragana - ra, ri, ru, re, ro"
         },
         {
             "id": "jplesson10",
-            "title": "Hiragana - わ、を、ん",
-            "subtitle": "Learn the particle (W), and (N) sound in the Japanese language."
+            "title": "ひらがな - わ、を、ん",
+            "subtitle": "Learn the particle (W), and (N) sound in the Japanese language.",
+            "title_romanization": "Hiragana - wa, wo, n"
         }
     ]
 }
