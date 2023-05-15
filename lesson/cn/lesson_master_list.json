@@ -1,0 +1,42 @@
+{
+    "last_updated_timestamp": 1684144720,
+    "lesson_list": [
+      {
+        "id": "cnlesson1",
+        "title": "Pinyin - 声母",
+        "subtitle": "Learn the initial consonants (shengmu) in Mandarin Chinese.",
+        "title_romanization": "Pinyin - Shēngmǔ"
+      },
+      {
+        "id": "cnlesson2",
+        "title": "Pinyin - 韵母",
+        "subtitle": "Learn the final vowels (yunmu) in Mandarin Chinese.",
+        "title_romanization": "Pinyin - Yùnmǔ"
+      },
+      {
+        "id": "cnlesson3",
+        "title": "Pinyin - 声调",
+        "subtitle": "Learn the tones (shengdiao) in Mandarin Chinese.",
+        "title_romanization": "Pinyin - Shēngdiào"
+      },
+      {
+        "id": "cnlesson4",
+        "title": "汉字 - 基本笔画",
+        "subtitle": "Learn the basic strokes (jiben bihua) in Chinese characters.",
+        "title_romanization": "Hànzì - Jīběn Bǐhuà"
+      },
+      {
+        "id": "cnlesson5",
+        "title": "汉字 - 常用部首",
+        "subtitle": "Learn the commonly used radical components (changyong bushou) in Chinese characters.",
+        "title_romanization": "Hànzì - Chángyòng Bùshǒu"
+      },
+      {
+        "id": "cnlesson6",
+        "title": "汉字 - 常用词汇",
+        "subtitle": "Learn commonly used vocabulary (changyong cihui) in Mandarin Chinese.",
+        "title_romanization": "Hànzì - Chángyòng Cíhuì"
+      }
+    ]
+  }
+  
